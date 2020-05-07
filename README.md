@@ -1,2 +1,3 @@
 # SQLite_for_DS
-Course homeworks
+
+Course homeworks are presented here.
